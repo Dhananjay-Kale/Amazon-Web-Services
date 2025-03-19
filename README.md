@@ -1,2 +1,2 @@
 # Amazon-Web-Services
-This is repository foe AWS work.
+This is repository for AWS work.
